@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="605fadb8-aa73-4ea8-b106-5aed6d002894" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YcnWzj2odjpuscdaqNnfwbj0V4" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Position" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\HTML\Trainers\Fonts" />
+      <recent name="E:\HTML\Trainers\Css" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\HTML\Trainers\Css" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="605fadb8-aa73-4ea8-b106-5aed6d002894" name="Default Changelist" comment="" />
+      <created>1583250785854</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583250785854</updated>
+      <workItem from="1583250786967" duration="8455000" />
+      <workItem from="1583343804604" duration="7829000" />
+      <workItem from="1583352353732" duration="61000" />
+      <workItem from="1583403903072" duration="131000" />
+      <workItem from="1583434183209" duration="756000" />
+      <workItem from="1583600820568" duration="57000" />
+      <workItem from="1583660061565" duration="2016000" />
+      <workItem from="1583740710878" duration="11303000" />
+      <workItem from="1583772295270" duration="6806000" />
+      <workItem from="1583819913914" duration="218000" />
+      <workItem from="1583858331248" duration="5434000" />
+      <workItem from="1583941651595" duration="8247000" />
+      <workItem from="1583988671395" duration="1130000" />
+      <workItem from="1584003207367" duration="4684000" />
+      <workItem from="1584030775597" duration="8028000" />
+      <workItem from="1584108002124" duration="3685000" />
+      <workItem from="1584281658110" duration="6124000" />
+      <workItem from="1584337798537" duration="186000" />
+      <workItem from="1584355039001" duration="8388000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

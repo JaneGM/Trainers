@@ -148,3 +148,17 @@ aside form input {
     font-style: normal;
     padding-left: 15px;
 }
+aside form input {
+    width: 70%;
+    background-color: white;
+    border: none;
+    line-height: 42px;
+    float: right;
+    color: black;
+    font-size: 12px;
+    outline: none;
+    font-family: 'Metropolis';
+    font-weight: 500;
+    font-style: normal;
+    padding-left: 15px;
+}

@@ -134,3 +134,17 @@ aside nav ul li:first-of-type a{
 header nav ul li:hover a:after{
     width: 100%;
 }
+aside form input {
+    width: 70%;
+    background-color: white;
+    border: none;
+    line-height: 42px;
+    float: right;
+    color: black;
+    font-size: 12px;
+    outline: none;
+    font-family: 'Metropolis';
+    font-weight: 500;
+    font-style: normal;
+    padding-left: 15px;
+}

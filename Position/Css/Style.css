@@ -6,9 +6,8 @@
 }
 body{
     background-color: #3f0002;
-    background-image: url('../images/foto_bg.jpg');
-    background-size: 100% auto;
 }
+
 .switcher{
     width: 50px;
     position: fixed;
@@ -30,36 +29,27 @@ body{
 }
 .switcher .red{
     background-color: #98161b;
-
 }
 header{
-    width: 100%;
     height: 40px;
     background-color: #af2024;
 }
 section{
-    position: relative;
-
+     background-image: url('../images/foto_bg.jpg');
+     background-size: 100% auto;
+    background-repeat: no-repeat;
     background-color: #3f0002;
-}
+ }
 section img{
-    width: 100%;
+    margin-top: 20px;
+    margin-left: 268px;
 }
-section .logo{
-    max-width: 354px;
-    width: 100%;
-    position:absolute;
-    z-index: 2;
-    top: 20px;
-    left: 268px;
-}
-.conteiner{
-    position: relative;
-    z-index: 1;
-    bottom: 680px;
-    margin-left: 340px;
+section .conteiner{
     max-width: 710px;
+    margin: auto;
     background-color: white;
+    position: relative;
+    bottom: -36px;
 }
 section h2 {
     font-family: 'Arvo', serif;
@@ -120,6 +110,5 @@ section p{
 footer{
     height: 68px;
     background-color: black;
-    position: relative;
-    z-index: 0;
+
 }

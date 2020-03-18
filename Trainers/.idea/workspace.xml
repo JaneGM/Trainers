@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="605fadb8-aa73-4ea8-b106-5aed6d002894" name="Default Changelist" comment="" />
+    <list default="true" id="605fadb8-aa73-4ea8-b106-5aed6d002894" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Position/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/icon-red_03.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Position/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Position/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,7 +35,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Position" />
+    <property name="last_opened_file_path" value="E:/Курсы HTML/lesson1-6/form.html" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
   </component>
@@ -84,6 +89,7 @@
       <workItem from="1584281658110" duration="6124000" />
       <workItem from="1584337798537" duration="186000" />
       <workItem from="1584355039001" duration="10433000" />
+      <workItem from="1584529548694" duration="10690000" />
     </task>
     <task id="LOCAL-00001" summary="qwerty">
       <created>1584385407169</created>
@@ -92,7 +98,14 @@
       <option name="project" value="LOCAL" />
       <updated>1584385407170</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="problem with menu">
+      <created>1584548101914</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1584548101914</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -103,7 +116,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -113,6 +128,7 @@
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="qwerty" />
-    <option name="LAST_COMMIT_MESSAGE" value="qwerty" />
+    <MESSAGE value="problem with menu" />
+    <option name="LAST_COMMIT_MESSAGE" value="problem with menu" />
   </component>
 </project>

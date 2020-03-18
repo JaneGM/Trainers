@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d1f7eae2-7e26-48d2-883b-7a04d8a2e8ab" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Css/Style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Css/Style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Trainers/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Trainers/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -75,8 +73,16 @@
       <workItem from="1584281636983" duration="28000" />
       <workItem from="1584337823178" duration="156000" />
       <workItem from="1584377209262" duration="2142000" />
-      <workItem from="1584525546323" duration="1870000" />
+      <workItem from="1584525546323" duration="2139000" />
     </task>
+    <task id="LOCAL-00001" summary="error correction">
+      <created>1584527681750</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1584527681750</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -94,5 +100,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="error correction" />
+    <option name="LAST_COMMIT_MESSAGE" value="error correction" />
   </component>
 </project>

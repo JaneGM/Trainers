@@ -36,7 +36,6 @@
     font-size: inherit;
     box-sizing: border-box;
 }
-
 header{
     height: 340px;
     background-image: url('../images/header-2.jpg');
@@ -66,7 +65,7 @@ aside{
     width: 240px;
     float: left;
 }
-aside:after, aside form input:after, aside form button:after {
+aside:after, aside form input:after, aside form button:after, article form:after {
     content: "";
     display: block;
     clear: both;
@@ -77,22 +76,23 @@ aside nav{
 aside nav ul li img{
     margin-left: 24px;
 }
+aside nav ul li{
+    padding-bottom: 16px;
+    padding-top: 16px;
+}
 aside nav ul li a{
     margin-left: 24px;
     font-family: 'Metropolis Semi';
-    font-weight: 600;
     font-style: normal;
     text-transform: uppercase;
     text-decoration: none;
     color: white;
     font-size: 10px;
-    padding-top: 16px;
-    padding-bottom: 16px;
 }
 aside form{
     margin-left: 26px;
     margin-top: 52px;
-    width: 148px;
+    width: 188px;
 }
 aside form button {
      float: left;
@@ -119,46 +119,33 @@ aside form input {
     font-style: normal;
     padding-left: 15px;
 }
-aside  nav ul li a:after{
-    content: "";
-    display: block;
-    width: 0;
-    height: 44px;
-    background-color:#ff0000;
-    margin-top: 4px;
-    transition: 0.3s;
+.menu{
+    height: 134px;
+    background-color: blue;
+    margin: auto;
 }
-aside nav ul li:first-of-type a{
-    padding-left: 0;
+.icon-red{
+    margin: 34px 26px 27px 46px;
 }
-header nav ul li:hover a:after{
-    width: 100%;
-}
-aside form input {
-    width: 70%;
-    background-color: white;
-    border: none;
-    line-height: 42px;
-    float: right;
+article h2{
+    font-family: 'Bebas Neue', cursive;;
+    font-size: 35px;
     color: black;
-    font-size: 12px;
-    outline: none;
+}
+article form{
+    float: right;
+}
+article form select{
+    height: 42px;
+    width: 170px;
+    background-color: #a1a1a1;
     font-family: 'Metropolis';
     font-weight: 500;
     font-style: normal;
-    padding-left: 15px;
-}
-aside form input {
-    width: 70%;
-    background-color: white;
-    border: none;
-    line-height: 42px;
-    float: right;
-    color: black;
+    color: white;
     font-size: 12px;
-    outline: none;
-    font-family: 'Metropolis';
-    font-weight: 500;
-    font-style: normal;
-    padding-left: 15px;
+    text-transform: uppercase;
+    padding-left: 18px;
+    margin-right: 18px;
+    border-radius: 3px;
 }

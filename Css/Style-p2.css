@@ -1,0 +1,176 @@
+@font-face {
+    font-family: 'Metropolis';
+    src: url('../fonts/Metropolis-Medium.eot');
+    src: url('../fonts/Metropolis-Medium.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/Metropolis-Medium.woff2') format('woff2'),
+    url('../fonts/Metropolis-Medium.woff') format('woff'),
+    url('../fonts/Metropolis-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Metropolis';
+    src: url('../fonts/Metropolis-Light.eot');
+    src: url('../fonts/Metropolis-Light.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/Metropolis-Light.woff2') format('woff2'),
+    url('../fonts/Metropolis-Light.woff') format('woff'),
+    url('../fonts/Metropolis-Light.ttf') format('truetype'),
+    url('../fonts/Metropolis-Light.svg#Metropolis-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Metropolis Semi';
+    src: url('../fonts/Metropolis-SemiBold.eot');
+    src: url('../fonts/Metropolis-SemiBold.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/Metropolis-SemiBold.woff2') format('woff2'),
+    url('../fonts/Metropolis-SemiBold.woff') format('woff'),
+    url('../fonts/Metropolis-SemiBold.ttf') format('truetype'),
+    url('../fonts/Metropolis-SemiBold.svg#Metropolis-SemiBold') format('svg');
+    font-weight: 600;
+    font-style: normal;
+}
+*{
+    margin: 0;
+    padding: 0;
+    font-size: inherit;
+    box-sizing: border-box;
+}
+header{
+    height: 340px;
+    background-image: url('../images/header-2.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%
+}
+header h1{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 37px;
+    text-align: center;
+    text-transform: uppercase;
+    color: white;
+    padding-top: 245px;
+    padding-bottom: 33px;
+}
+header h1:after{
+    display: block;
+    content: "";
+    max-width: 1170px;
+    height: 3px;
+    background-color: red;
+    margin: auto;
+}
+aside{
+    background-color: black;
+    width: 240px;
+    height: 1745px;
+    float: left;
+}
+aside:after, aside form input:after, aside form button:after, article form:after {
+    content: "";
+    display: block;
+    clear: both;
+}
+aside nav{
+    margin-top: 25px;
+}
+aside nav ul li img{
+    margin-left: 24px;
+}
+aside nav ul li{
+    padding-bottom: 20px;
+}
+aside nav ul li a{
+    margin-left: 24px;
+    font-family: 'Metropolis Semi';
+    font-style: normal;
+    text-transform: uppercase;
+    text-decoration: none;
+    color: white;
+    font-size: 10px;
+}
+aside form{
+    margin-left: 26px;
+    margin-top: 52px;
+    width: 188px;
+    line-height: 42px;
+}
+aside form button {
+     float: left;
+     width: 30%;
+     line-height: 42px;
+     text-align: center;
+     color: #c2c2c2;
+     border: none;
+     background-color: white;
+     margin: 0;
+     padding-left: 18px;
+ }
+aside form input {
+    width: 70%;
+    background-color: white;
+    border: none;
+    line-height: 42px;
+    float: right;
+    color: black;
+    font-size: 12px;
+    outline: none;
+    font-family: 'Metropolis';
+    font-weight: 500;
+    font-style: normal;
+    padding-left: 15px;
+}
+.menu{
+    height:97px;
+    background-color: blue;
+    margin: auto;
+    padding-top: 35px;
+}
+.icon-red{
+    margin: 0px 26px 27px 46px;
+}
+article{
+    background-color: #f1f1f1;
+}
+article h2{
+    font-family: 'Bebas Neue', cursive;;
+    font-size: 38px;
+    color: black;
+   padding-left: 100px;
+}
+article h2{
+    float: left;
+}
+article form{
+    float: right;
+}
+article form select{
+    height: 42px;
+    width: 170px;
+    background-color: #a1a1a1;
+    font-family: 'Metropolis';
+    font-weight: 500;
+    font-style: normal;
+    color: white;
+    font-size: 12px;
+    text-transform: uppercase;
+    padding-left: 18px;
+    margin-right: 18px;
+    border-radius: 3px;
+}
+.margin{
+    margin-right: 43px;
+}
+article h2:after {
+    content: "";
+    display: block;
+    max-width: 897px;
+    height: 1px;
+    color: #a1a1a1;
+    margin: auto;
+}
+.main-video{
+    margin-top: 34px;
+    margin: auto;
+
+}

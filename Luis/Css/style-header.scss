@@ -1,0 +1,97 @@
+@import "http://fonts.googleapis.com/css?family=Asap:400,500&display=swap";
+$font-family: 'Asap', sans-serif;
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-size: inherit; }
+
+
+header {
+  background-image: url("../images/bg-1.jpg");
+  background-repeat: no-repeat;
+  background-size: contain;
+
+  .container {
+    height: 750px;
+
+
+    .logo {
+      margin-top: 30px;
+      width: 100%;
+    }
+
+    nav {
+      margin-top: 32px;
+      font-family: $font-family;
+      display: flex;
+      justify-content: space-between;
+      ul{
+        list-style: none;
+        li {
+          text-transform: uppercase;
+          &:hover a:after{
+            width: 100%;
+          }
+          a{
+            text-decoration: none;
+            color: #4d4d4d;
+            font-size: 16px;
+            &:after{
+              content: '';
+              display: block;
+              width: 0;
+              height: 2px;
+              background-color: #7c8899;
+              transition: 0.3s;
+              margin-top: 9px;
+            }
+          }
+        }
+      }
+
+
+    }
+    .foto-Luis{
+      width: 100%
+    }
+    .name{
+      font-family: $font-family;
+      font-size: 90px;
+      color: #4d4d4d;
+      margin-top: 175px;
+    }
+    .user{
+      font-family: $font-family;
+      font-size: 22px;
+      color: #4d4d4d;
+      margin-top: 23px;
+      margin-bottom: 32px;
+
+    }
+    .btn{
+      font-family: $font-family;
+      font-size: 16px;
+      color: #4d4d4d;
+      height: 50px;
+      width: 160px;
+      border: 1px solid #4d4d4d;
+      margin: 0 10px;
+      padding-top:14px;
+      &:hover .btn:after{
+        width: 100%;
+      }
+      &:hover{
+        content: '';
+        display: inline-block;
+        width: 160px;
+        height: 48px;
+        background-color: white;
+        transition: 0.3s;
+        border: none;
+      }
+    }
+
+  }
+}
+

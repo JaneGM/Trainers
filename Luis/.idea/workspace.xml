@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b2a0d5de-cf82-46eb-9b97-51cb5d606b74" name="Default Changelist" comment="" />
+    <list default="true" id="b2a0d5de-cf82-46eb-9b97-51cb5d606b74" name="Default Changelist" comment="header">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Oenrique/.idea/Oenrique.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Oenrique/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Oenrique/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Oenrique/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Oenrique/.idea/watcherTasks.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Oenrique/CSS/Style-header.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Oenrique/CSS/Style.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Oenrique/CSS/bootstrap-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Oenrique/CSS/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Oenrique/JS/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Oenrique/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,7 +38,14 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="E:\HTML\Luis\.idea" />
+      </set>
+    </option>
   </component>
   <component name="ProjectId" id="1aNtQl3oQUWcx6GgBZBrRE7nQ64" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -30,7 +53,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Fapor" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="SCSS" />
   </component>
   <component name="RecentsManager">
@@ -61,7 +84,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1586587864636</updated>
-      <workItem from="1586587865996" duration="16909000" />
+      <workItem from="1586587865996" duration="17193000" />
+      <workItem from="1586615717293" duration="77000" />
+      <workItem from="1587018275080" duration="51000" />
     </task>
     <task id="LOCAL-00001" summary="header">
       <created>1586615113825</created>
@@ -70,7 +95,21 @@
       <option name="project" value="LOCAL" />
       <updated>1586615113825</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="header">
+      <created>1586615276412</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1586615276412</updated>
+    </task>
+    <task id="LOCAL-00003" summary="header">
+      <created>1586615478267</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1586615478267</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -81,7 +120,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

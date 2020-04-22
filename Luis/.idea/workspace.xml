@@ -14,9 +14,6 @@
       <change afterPath="$PROJECT_DIR$/../Oenrique/CSS/bootstrap.min.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Oenrique/JS/bootstrap.min.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Oenrique/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -87,6 +84,7 @@
       <workItem from="1586587865996" duration="17193000" />
       <workItem from="1586615717293" duration="77000" />
       <workItem from="1587018275080" duration="51000" />
+      <workItem from="1587470304471" duration="31000" />
     </task>
     <task id="LOCAL-00001" summary="header">
       <created>1586615113825</created>

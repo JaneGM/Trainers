@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d1f7eae2-7e26-48d2-883b-7a04d8a2e8ab" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../Trainers/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Trainers/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lucid/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lucid/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lucid/JS/scripts.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Lucid/JS/scripts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lucid/Styles/Style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../Lucid/Styles/Style.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lucid/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Lucid/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -74,6 +78,7 @@
       <workItem from="1584337823178" duration="156000" />
       <workItem from="1584377209262" duration="2142000" />
       <workItem from="1584525546323" duration="2139000" />
+      <workItem from="1588787691095" duration="621000" />
     </task>
     <task id="LOCAL-00001" summary="error correction">
       <created>1584527681750</created>

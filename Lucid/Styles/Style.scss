@@ -1,5 +1,20 @@
+@import "zeroing-style";
 @import "header-style";
+@import "block-features";
+@import "beautiful-device";
+@import "block-customize";
+@import "testimonials";
+@import "pricing";
+@import "contact";
+@import "owl.carousel.min.css";
+@import "owl.theme.default.min.css";
 @import "https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,600,700&display=swap";
+@import "../fontawesome-free-5.0.8/web-fonts-with-css/css/fontawesome-all.css";
 @media screen and (max-width: 767px) {
   .body.lock {
     overflow: hidden; } }
+@mixin max-screen($res) {
+  @media screen and (max-width: $res) {
+    @content;
+  }
+}

@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="605fadb8-aa73-4ea8-b106-5aed6d002894" name="Default Changelist" comment="" />
+    <list default="true" id="94107793-6bbe-4525-9704-8d8943069d51" name="Default Changelist" comment="проблема с центровкой">
+      <change afterPath="$PROJECT_DIR$/Css/owl.carousel.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Css/owl.theme.default.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/owl.carousel.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/scripts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Css/Style-p2.css" beforeDir="false" afterPath="$PROJECT_DIR$/Css/Style-p2.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Css/Style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Css/Style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Css/media.css" beforeDir="false" afterPath="$PROJECT_DIR$/Css/media.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index-p2.html" beforeDir="false" afterPath="$PROJECT_DIR$/index-p2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,31 +26,24 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
-        <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1YcnWzj2odjpuscdaqNnfwbj0V4" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="1ZOfqcKOTV4bCSvVAXS9HQjpBfv" />
   <component name="PropertiesComponent">
-    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="E:/Курсы HTML/lesson1-6/form.html" />
-    <property name="list.type.of.created.stylesheet" value="CSS" />
-    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
+    <property name="last_opened_file_path" value="E:/HTML/Lucid" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\HTML\Trainers\Fonts" />
-      <recent name="E:\HTML\Trainers\Css" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\HTML\Trainers\Css" />
+      <recent name="C:\HTML\Trainers\js" />
+      <recent name="C:\HTML\Trainers\Css" />
+      <recent name="C:\HTML\Trainers" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -60,54 +63,43 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="605fadb8-aa73-4ea8-b106-5aed6d002894" name="Default Changelist" comment="" />
-      <created>1583250785854</created>
+      <changelist id="94107793-6bbe-4525-9704-8d8943069d51" name="Default Changelist" comment="" />
+      <created>1584715252302</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1583250785854</updated>
-      <workItem from="1583250786967" duration="8455000" />
-      <workItem from="1583343804604" duration="7829000" />
-      <workItem from="1583352353732" duration="61000" />
-      <workItem from="1583403903072" duration="131000" />
-      <workItem from="1583434183209" duration="756000" />
-      <workItem from="1583600820568" duration="57000" />
-      <workItem from="1583660061565" duration="2016000" />
-      <workItem from="1583740710878" duration="11303000" />
-      <workItem from="1583772295270" duration="6806000" />
-      <workItem from="1583819913914" duration="218000" />
-      <workItem from="1583858331248" duration="5434000" />
-      <workItem from="1583941651595" duration="8247000" />
-      <workItem from="1583988671395" duration="1130000" />
-      <workItem from="1584003207367" duration="4684000" />
-      <workItem from="1584030775597" duration="8028000" />
-      <workItem from="1584108002124" duration="3685000" />
-      <workItem from="1584281658110" duration="6124000" />
-      <workItem from="1584337798537" duration="186000" />
-      <workItem from="1584355039001" duration="10433000" />
-      <workItem from="1584529548694" duration="11292000" />
+      <updated>1584715252302</updated>
+      <workItem from="1584715253466" duration="16222000" />
+      <workItem from="1584861470258" duration="17244000" />
+      <workItem from="1584955965323" duration="15248000" />
+      <workItem from="1585036573533" duration="1325000" />
+      <workItem from="1585551408614" duration="4894000" />
+      <workItem from="1585570111228" duration="714000" />
+      <workItem from="1586605707968" duration="3449000" />
+      <workItem from="1586615610188" duration="31000" />
+      <workItem from="1586615655014" duration="1425000" />
+      <workItem from="1586679722400" duration="618000" />
+      <workItem from="1587209249433" duration="1684000" />
+      <workItem from="1587384250857" duration="325000" />
+      <workItem from="1587556876032" duration="2093000" />
+      <workItem from="1588007524292" duration="1201000" />
+      <workItem from="1588954014485" duration="625000" />
+      <workItem from="1589010926405" duration="37000" />
     </task>
-    <task id="LOCAL-00001" summary="qwerty">
-      <created>1584385407169</created>
+    <task id="LOCAL-00001" summary="new commite">
+      <created>1584715641778</created>
       <option name="number" value="00001" />
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
-      <updated>1584385407170</updated>
+      <updated>1584715641778</updated>
     </task>
-    <task id="LOCAL-00002" summary="problem with menu">
-      <created>1584548101914</created>
+    <task id="LOCAL-00002" summary="проблема с центровкой">
+      <created>1584785500630</created>
       <option name="number" value="00002" />
       <option name="presentableId" value="LOCAL-00002" />
       <option name="project" value="LOCAL" />
-      <updated>1584548101914</updated>
+      <updated>1584785500630</updated>
     </task>
-    <task id="LOCAL-00003" summary="problem with menu">
-      <created>1584553315625</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1584553315625</updated>
-    </task>
-    <option name="localTasksCounter" value="4" />
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -129,8 +121,8 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="qwerty" />
-    <MESSAGE value="problem with menu" />
-    <option name="LAST_COMMIT_MESSAGE" value="problem with menu" />
+    <MESSAGE value="new commite" />
+    <MESSAGE value="проблема с центровкой" />
+    <option name="LAST_COMMIT_MESSAGE" value="проблема с центровкой" />
   </component>
 </project>
